@@ -1,6 +1,8 @@
 # todo-list
-Add your daily activities 
+
+Add your daily activities
+
 <h1>Hello</h1>
 <ul>
-  <li>important things</li>
+  <li>importantthings</li>
 </ul>
